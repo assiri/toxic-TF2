@@ -14,7 +14,9 @@ python customloops.py
 Datasets: Cifa10 
 ```
 python customloops_acc97.py
-```
+
 Result:
 Training Accuracy : 0.9795800042152405
 TestvAccuracy o 0.9700599908828735
+
+```
